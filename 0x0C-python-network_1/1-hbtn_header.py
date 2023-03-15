@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 """
 This module displayes the value of the X-Request-Id variable.
 """
